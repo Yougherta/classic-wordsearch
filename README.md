@@ -6,6 +6,9 @@
 Generate word-search puzzles from your own word list, then **independently verify**
 the saved grid against the original request.
 
+**Try it free in your browser: https://yougherta.github.io/classic-wordsearch/**
+(type words, print the puzzle and answer key, nothing is uploaded).
+
 - Deterministic: the same seed always gives the same grid.
 - Rectangular grids, all 8 directions, overlaps, palindromes.
 - Rejects grids where a word appears twice by accident.

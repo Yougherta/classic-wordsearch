@@ -3,3 +3,4 @@ coverage/
 *.tgz
 *.log
 examples/*.artifact.json
+site/classic-wordsearch.js
