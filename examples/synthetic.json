@@ -1,0 +1,21 @@
+{
+  "schema_version": "classic-wordsearch-spec@1",
+  "rows": 12,
+  "columns": 14,
+  "words": [
+    "ZABERO",
+    "KIVUNO",
+    "PELAXI",
+    "MORUVA",
+    "SENIKO",
+    "TAVUZE"
+  ],
+  "directions": [
+    "E",
+    "S",
+    "SE"
+  ],
+  "seed": "synthetic-v01",
+  "min_distinct_directions": 2,
+  "min_diagonal_placements": 1
+}

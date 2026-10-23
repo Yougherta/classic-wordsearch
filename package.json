@@ -1,0 +1,46 @@
+{
+  "name": "classic-wordsearch",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Deterministic word-search generator with an independent verifier. Zero dependencies.",
+  "author": "Yougherta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yougherta/classic-wordsearch.git"
+  },
+  "homepage": "https://github.com/Yougherta/classic-wordsearch#readme",
+  "bugs": {
+    "url": "https://github.com/Yougherta/classic-wordsearch/issues"
+  },
+  "keywords": [
+    "word-search",
+    "wordsearch",
+    "puzzle",
+    "puzzle-generator",
+    "word-puzzle",
+    "education",
+    "cli"
+  ],
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "classic-wordsearch": "bin/classic-wordsearch.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "files": [
+    "index.js",
+    "bin/",
+    "lib/",
+    "examples/",
+    "docs/",
+    "README.md",
+    "LICENSE",
+    "THIRD_PARTY_NOTICES.md",
+    "CHANGELOG.md"
+  ]
+}
